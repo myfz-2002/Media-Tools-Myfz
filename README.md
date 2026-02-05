@@ -59,9 +59,9 @@ implementation 'org.litepal.android:core:2.0.0'
 
 api project(':jiaozivideoplayer')
 ```
-### 模块6：开源依赖&许可证
 
-## 💖 开源依赖 & 许可证
+
+##  开源依赖 & 许可证
 本项目基于以下优秀开源项目开发，感谢所有贡献者：
 
 - **IJKPlayer**  
@@ -96,7 +96,7 @@ api project(':jiaozivideoplayer')
   许可证：Apache License 2.0  
   项目地址：[https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
 
-- **JiaoZiVideoPlayer（娇子视频播放器）**  
+- **JiaoZiVideoPlayer（饺子视频播放器）**  
   许可证：MIT License  
   项目地址：[https://github.com/lipangit/JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
