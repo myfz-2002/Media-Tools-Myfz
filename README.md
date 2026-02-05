@@ -60,7 +60,7 @@ implementation 'org.litepal.android:core:2.0.0'
 api project(':jiaozivideoplayer')
 ```
 ### 模块6：开源依赖&许可证
-```markdown
+
 ## 💖 开源依赖 & 许可证
 本项目基于以下优秀开源项目开发，感谢所有贡献者：
 
