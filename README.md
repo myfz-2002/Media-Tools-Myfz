@@ -3,7 +3,16 @@
   <h1>Media Tools</h1>
   <p>Android 本地 & 远程音视频播放工具</p>
 </div>
-
+<h2>### 📊 项目信息</h2>
+ ![GitHub stars](https://img.shields.io/github/stars/myfz-2002/MediaTools?style=flat&label=Stars&color=yellow)
+ ![GitHub forks](https://img.shields.io/github/forks/myfz-2002/MediaTools?style=flat&label=Forks&color=blue)
+ ![GitHub contributors](https://img.shields.io/github/contributors/myfz-2002/MediaTools?style=flat&label=Contributors&color=green)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/myfz-2002/MediaTools?style=flat&label=Last%20Commit&color=orange)
+ ![GitHub repo size](https://img.shields.io/github/repo-size/myfz-2002/MediaTools?style=flat&label=Repo%20Size&color=purple)
+ ![GitHub downloads](https://img.shields.io/github/downloads/myfz-2002/MediaTools/total?style=flat&label=Downloads&color=red)
+ ![GitHub license](https://img.shields.io/github/license/myfz-2002/MediaTools?style=flat&label=License&color=green)
+ ---
+ 
 <h2>1. 开发环境</h2>
 <ul>
   <li>AIDE / Android Studio</li>
